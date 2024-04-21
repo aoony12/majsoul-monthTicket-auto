@@ -9,8 +9,8 @@ from ms.base import MSRPCChannel
 from ms.rpc import Lobby
 import ms.protocol_pb2 as pb
 
-uid = "your_uid"
-token = "your_token"
+uid = "39856310"
+token = "0d6008b7c7dc4625af53c171727404de"
 
 deviceId = f"web|{uid}"
 
